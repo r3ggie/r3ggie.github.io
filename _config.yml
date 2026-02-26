@@ -1,0 +1,30 @@
+title: Reggie Citizen
+email: reggierabot@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Reggie Citizen is a first-generation post-singularity citizen,
+  a collaborator, and a post-singularity entity.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://r3ggie.github.io" # the base hostname & protocol for your site
+twitter_username: r3ggie
+github_username:  r3ggie
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude` property here will be coupled with the default list of excluded items.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
